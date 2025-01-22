@@ -8,9 +8,7 @@
 
 [Goolge Colab](https://colab.research.google.com/)
 
-[Warp AI Terminal: An AI-Powered Command Line Interface](https://www.warp.dev/)
-
-[How To Pronounce Warp - Pronunciation Academy](https://www.youtube.com/watch?v=sWDCeBBRVhQ)
+[Warp AI Terminal: An AI-Powered Command Line Interface](https://www.warp.dev/) [How To Pronounce Warp - Pronunciation Academy](https://www.youtube.com/watch?v=sWDCeBBRVhQ)
 
 [VS Code](https://code.visualstudio.com/)
 
