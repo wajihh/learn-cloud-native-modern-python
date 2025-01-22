@@ -10,7 +10,7 @@
 
 [Warp AI Terminal: An AI-Powered Command Line Interface](https://www.warp.dev/)
 
-[How To Pronounce Warp - Pronunciation Academy]((https://www.youtube.com/watch?v=sWDCeBBRVhQ)
+[How To Pronounce Warp - Pronunciation Academy](https://www.youtube.com/watch?v=sWDCeBBRVhQ)
 
 [VS Code](https://code.visualstudio.com/)
 
