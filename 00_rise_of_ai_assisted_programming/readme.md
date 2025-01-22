@@ -2,6 +2,8 @@
 
 [The Rise of AI Coding Assistants: How They’re Changing the Developer’s Workflow](https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5)
 
+[The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+
 ## Our AI Development Tools
 
 [Goolge Colab](https://colab.research.google.com/)
