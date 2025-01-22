@@ -16,6 +16,8 @@
 
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
+[DevContainers: Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
+
 ## Overview
 
 AI-assisted programming refers to the integration of artificial intelligence (AI) technologies into the software development process to enhance developers’ capabilities. By leveraging advanced AI algorithms and machine learning models, these tools assist in various stages of development, including code generation, debugging, testing, and optimization. For instance, AI-powered code completion tools like GitHub Copilot can predict and suggest the next line or block of code based on the current context, thereby increasing efficiency and reducing errors.  ￼
