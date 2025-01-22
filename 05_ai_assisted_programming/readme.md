@@ -1,4 +1,8 @@
-# AI Assisted Python Programming
+# AI Assisted Python Programming with GitHub Copilot in Visual Studio Code
+
+[WATCH Live demo: GitHub Copilot in Visual Studio Code](https://www.youtube.com/watch?v=dSbv-1KGu2U)
+
+[WATCH How to get started with GitHub Copilot Free in Visual Studio Code - FREE AI Code Editor](https://www.youtube.com/watch?v=4vCdoj4ou7I)
 
 Install VS Code:
 

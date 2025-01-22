@@ -4,6 +4,8 @@
 
 [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 
+[WATCH Live demo: GitHub Copilot in Visual Studio Code](https://www.youtube.com/watch?v=dSbv-1KGu2U)
+
 ## Our AI Development Tools
 
 [Goolge Colab](https://colab.research.google.com/)
