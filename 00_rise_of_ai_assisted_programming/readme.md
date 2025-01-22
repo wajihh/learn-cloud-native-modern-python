@@ -10,6 +10,8 @@
 
 [Warp AI Terminal: An AI-Powered Command Line Interface](https://www.warp.dev/)
 
+[How To Pronounce Warp - Pronunciation Academy]((https://www.youtube.com/watch?v=sWDCeBBRVhQ)
+
 [VS Code](https://code.visualstudio.com/)
 
 [GitHub Copilot: AI Code Assistant for VS Code](https://code.visualstudio.com/docs/copilot/setup-simplified)
