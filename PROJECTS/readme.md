@@ -1,41 +1,39 @@
-## Setup Instructions
+## Python Project Instructions
 
-## Starter Template
+## Google Colab
 
-This will be used by students to complete all session_assignments and coding Challenges
+Google Colab will be used by students to complete all assignments and projects
 
-## Self Coding Challenges
+https://colab.research.google.com/
 
-Extra python projects to Master your skillset. Optional for regular classes and must be practiced by all students
+We will use the Colab code generation capabilities and also it's ability to explain code.
 
-## Session Assignments
+## Online Class Projects
 
-Essential Projects to be discussed/completed in Classes Online/Onsite.
+Essential Projects to be discussed/completed in Online Classes. Check directory: 
 
-## Template Setup Guide
+online_class_projects
 
-### PreRequisite:
-1. Installed Docker
-2. Add DevContianer Extension to VS Code
-3. Knows the purpose of `docker compose up --build -d` and `docker compose down` commands
+## Homework Projects
 
-## Setup
+Homework python projects to Master your skillset. Must be practiced by all students in homework. Check directory: 
 
-1. Clone the repp and open folder `cnai_python_starter_template` or it's code in VS code
+homework_projets
 
-2. Ensure that in VS code terminal if you type `dir` or `ls` the output is:
+## Projects to be Submitted by PIAIC Students
 
-```bash
-mjs@Muhammads-MacBook-Pro-3 cnai_python_starter_template % ls
-Dockerfile      compose.yml     main.py
-```
+AI-101 students will submit the projects in the following form:
 
-3. Start Template
+**For PIAIC Students**  = https://forms.gle/VPw9wnmt1j8e7bnb6
 
-In Terminal run `docker compose up --build -d`
+## Projects to be Submitted by Governor House Students
 
-4. Open the Container in VSCode - now using the DevContainer Remote Explorer open the Container in VS Code
+AI-101 students will submit the projects in the following form:
 
-5. Do all your coding challenges - make python files and run them in vs code.
+**For Governor House Students** = https://forms.gle/CixPAnwR726zuosK6
 
-6. After practice close dev container and in terminal run `docker compose down`
+Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be selected by the onsite class instructors. **You will be removed from the class until you successfully complete your project and submit it.**
+
+You are required to complete and submit the following projects, check directory:
+
+projects_to_be_submitted_by_students

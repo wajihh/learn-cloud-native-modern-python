@@ -1,68 +1,89 @@
-# Learn Cloud Native Modern AI Python
+# Learn Modern AI Python
 
 This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the first quarter of the course work:
 
-## Quarter 1: Fundamentals of Prompt Engineering, Docker, GitHub, and Modern Python Programming
+### AI-101: Modern AI Python Programming
 
-We begin the course by understanding the basics of GenAI and Prompt Engineering. Then we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. The main focus will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI. **We will be using ChatGPT extensively as our Personal Python Coding Mentor**.
+The main focus in this course will be on mastering the fundamentals of Modern Python with Typing using Google Colab, the go-to language for AI and using AI to write Python Programs. 
 
-Note:
+![Python](top-python.webp)
 
-Docker has market share of 82.63% in containerization market. Gartner® estimates that 90% of global organizations will be running containerized applications in production by 2026.
+### Online AI-101 Project Classes every Tuesday 8:00 pm
 
-### Tools to Install
+Instructors: Hamza and Najam
 
-[Install ChatGPT on Your Mobile and Desktop](https://openai.com/chatgpt/download/)
+In these online classes the main focus will be on doing the following projects in class:
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects
 
-Currently it is not availble for Windows. Therefore, use the [web](https://chatgpt.com/) version on Windows for now. 
+The Zoom Link for the online classes:
+https://us06web.zoom.us/j/85338730622?pwd=KBNfeMPBhDTN7GMi7lH9K5UN6APAt9.1
 
-[VS Code](https://code.visualstudio.com/)
+You can also watch on YouTube if the Zoom class is full also recorded videos: 
+https://www.youtube.com/@panaverse
 
-[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+### Compulsory Projects for AI-101 Modern AI Python Students
 
-[Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)
+All AI-101 students must complete these compulsory projects, or they will be removed from class until they complete and submit them:
 
-[Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/projects_to_be_submitted_by_students
 
-[GitHub Desktop](https://desktop.github.com/)
+Your Instructors will assign a due date for the projects in class. You will submit your project in this form:
 
-[Ubuntu Image to Learn Linux](https://hub.docker.com/_/ubuntu)
+https://forms.gle/VPw9wnmt1j8e7bnb6
 
+The instructors will check your project in the onsite class on the due date. If you do not submit on the due date, you will be removed from
+the class until you successfully complete your project and submit it.
 
-Notes: 
-
-1. We will be doing all our Python development inside Docker Containers. 
-2. Students will be using GitHub from day one.
-3. We are using Ubuntu from start, latter we will also be use it to learn robotics. 
-
+For practice you should do the following homework projects (not to be submitted only for practice in class and at home):
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects
 
 
-### Study Material
 
-[Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 
-[Docker Desktop](https://docs.docker.com/desktop/)
+## Additional Certification Program Material
 
-[Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1916585256/ref=sr_1_1_sspa)
+[Program Podcast](https://youtu.be/ViRWA4wLI8k)
 
-[Docker Cheat Sheet: All the Most Essential Commands in One Place + Downloadable PDF](https://www.hostinger.com/tutorials/docker-cheat-sheet)
+[Agentic AI Detailed Intro Presentation](https://bit.ly/4hTqT4G)
 
-[60 Essential Linux Commands + Free Cheat Sheet](https://www.hostinger.com/tutorials/linux-commands)
+[Program Review by ChatGPT](https://chatgpt.com/share/6732a6f1-a3c4-8001-99cb-1b272c3b3881)
 
-[Getting started with GitHub Desktop](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)
+Read this article to understand [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
 
-[Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
+## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
 
-[mypy documentation](https://mypy.readthedocs.io/en/stable/index.html)
+## We will be using Google Colab for development:
 
-[Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
+Google Colab is a free, cloud-based Jupyter Notebook service developed by Google. It enables users to write and execute Python code through a web browser, offering seamless integration with Google Drive for easy storage and sharing of notebooks. Colab is particularly beneficial for tasks in machine learning, data analysis, and education, as it provides access to powerful computing resources, including GPUs and TPUs, without requiring any local setup. 
 
-[Poetry](https://python-poetry.org/)
+**Key Features of Google Colab:**
 
-[Streamlit: A faster way to build and share data apps](https://streamlit.io/)
+- **No Setup Required:** Users can start coding immediately without the need to install any software or manage local environments. 
 
-Note: We will be using Type Hints is all our Python Development.
+- **Free Access to Computing Resources:** Colab offers free access to computing resources, including GPUs and TPUs, facilitating the execution of complex computations and machine learning models. 
 
-### Projects
+- **Collaboration:** Notebooks can be easily shared and collaboratively edited, similar to Google Docs, enhancing teamwork and knowledge sharing. 
 
-[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+- **Integration with Google Drive:** Notebooks are stored in Google Drive, allowing for straightforward organization and access across devices. 
+
+- **Support for Various Libraries:** Colab supports popular Python libraries such as TensorFlow, Keras, and NumPy, making it versatile for various data science and machine learning projects. 
+
+**Recent Developments:**
+
+Recently, Google expanded Colab's AI-powered code assistance features to all users in eligible locales, including those on free plans. These features assist in generating code from natural language prompts and provide a code-assisting chatbot to enhance programming efficiency and comprehension. 
+
+**Getting Started with Google Colab:**
+
+To begin using Google Colab:
+
+1. **Access Colab:** Navigate to the [Google Colab website](https://colab.research.google.com/).
+
+2. **Create a New Notebook:** Click on "File" > "New Notebook" to create a new Jupyter Notebook.
+
+3. **Write and Execute Code:** Enter your Python code in the code cells and execute them to see the results.
+
+4. **Save and Share:** Your notebooks are automatically saved in your Google Drive, and you can share them with others by clicking the "Share" button.
+
+For more detailed information and tutorials, refer to the [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html) and the [Colab Help Center](https://support.google.com/colab/).
+
+Google Colab is a valuable tool for both beginners and professionals in data science and machine learning, offering an accessible platform to develop and share projects efficiently. 
