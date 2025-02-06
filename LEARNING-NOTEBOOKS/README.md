@@ -11,3 +11,5 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 04: Control Flow & Loops](https://colab.research.google.com/drive/19CfIJYDVeQJAeGw-L2MuPuxAhMJGA8Cm?usp=sharing)
 
 ## [Lesson 05: Lists, Tuples & Dictionary](https://colab.research.google.com/drive/1yPH2ErmQWlOli9HZR1l2EBUB5FIGY-tZ?usp=sharing)
+
+## [Lesson 06: The Set & Frozenset](https://colab.research.google.com/drive/1qsMQMYeeu-XpOEDW2s4JgQ24AwqVcuoW?usp=sharing)
