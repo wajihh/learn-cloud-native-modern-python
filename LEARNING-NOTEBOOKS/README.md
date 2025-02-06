@@ -9,3 +9,5 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 03: Strings & Type Casting](https://colab.research.google.com/drive/1Ho_ZEbgOB_Y3YjtPWqoJwjVXgpmM5fQS?usp=sharing)
 
 ## [Lesson 04: Control Flow & Loops](https://colab.research.google.com/drive/19CfIJYDVeQJAeGw-L2MuPuxAhMJGA8Cm?usp=sharing)
+
+## [Lesson 05: Lists, Tuples & Dictionary](https://colab.research.google.com/drive/1yPH2ErmQWlOli9HZR1l2EBUB5FIGY-tZ?usp=sharing)
