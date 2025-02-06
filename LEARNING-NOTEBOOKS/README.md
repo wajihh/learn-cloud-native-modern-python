@@ -5,3 +5,5 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 01: Data Types](https://colab.research.google.com/drive/1gNQDG1m7_cf-cY5cm_tmYNKDuwD9RneN?usp=sharing)
 
 ## [Lesson 02: Operators, Keywords & Variables](https://colab.research.google.com/drive/1ct5Efj7xRRpu155NOx38dNgnpQgC25yv?usp=sharing)
+
+## [Lesson 03: Strings & Type Casting](https://colab.research.google.com/drive/1Ho_ZEbgOB_Y3YjtPWqoJwjVXgpmM5fQS?usp=sharing)
