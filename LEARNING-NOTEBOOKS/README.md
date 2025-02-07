@@ -13,3 +13,7 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 05: Lists, Tuples & Dictionary](https://colab.research.google.com/drive/1yPH2ErmQWlOli9HZR1l2EBUB5FIGY-tZ?usp=sharing)
 
 ## [Lesson 06: The Set & Frozenset](https://colab.research.google.com/drive/1qsMQMYeeu-XpOEDW2s4JgQ24AwqVcuoW?usp=sharing)
+
+## [Lesson 07: Functions & Exception Handling](https://colab.research.google.com/drive/1hK73zQXY_qO9xZYxpX2zVtemBWM0Rq6O?usp=sharing)
+
+## [Lesson 08: I/O File Handling](https://colab.research.google.com/drive/12l0swaVyLwOvsMfoPNzUmpvfs2_VZ5bW?usp=sharing)
