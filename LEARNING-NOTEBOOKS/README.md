@@ -17,3 +17,5 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 07: Functions & Exception Handling](https://colab.research.google.com/drive/1hK73zQXY_qO9xZYxpX2zVtemBWM0Rq6O?usp=sharing)
 
 ## [Lesson 08: I/O File Handling](https://colab.research.google.com/drive/12l0swaVyLwOvsMfoPNzUmpvfs2_VZ5bW?usp=sharing)
+
+## [Lesson 09: The Math & Date Time Calendar](https://colab.research.google.com/drive/19ntCCcj3Dwy_nPmkHgJ4XVmsH3HmNJ-R?usp=sharing)
