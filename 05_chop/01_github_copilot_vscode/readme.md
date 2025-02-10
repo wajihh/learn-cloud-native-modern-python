@@ -1,3 +1,29 @@
+# Github Copilot
+
+[WATCH Live demo: GitHub Copilot in Visual Studio Code](https://www.youtube.com/watch?v=dSbv-1KGu2U)
+
+[WATCH How to get started with GitHub Copilot Free in Visual Studio Code - FREE AI Code Editor](https://www.youtube.com/watch?v=4vCdoj4ou7I)
+
+[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+
+[Watch: GitHub Copilot: the agent awakens](https://www.youtube.com/watch?v=C95drFKy4ss)
+
+[GitHub Copilot Agent And The Rise Of AI Coding Assistants](https://www.forbes.com/sites/janakirammsv/2025/02/08/github-copilot-agent-and-the-rise-of-ai-coding-assistants/)
+
+[Watch: GitHub Copilot: The World's Most Widely Adopted AI Developer Tool](https://www.youtube.com/watch?v=uhoPM-ABuV0)
+
+Install VS Code:
+
+https://code.visualstudio.com/download
+
+Install Github Copilot:
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+
+We will follow this book:
+
+[Learn AI-Assisted Python Programming, Second Edition](https://www.manning.com/books/learn-ai-assisted-python-programming-second-edition) 
+
 [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
 
 [Set up GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/setup)
