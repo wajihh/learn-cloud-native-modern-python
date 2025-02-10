@@ -19,3 +19,5 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 ## [Lesson 08: I/O File Handling](https://colab.research.google.com/drive/12l0swaVyLwOvsMfoPNzUmpvfs2_VZ5bW?usp=sharing)
 
 ## [Lesson 09: The Math & Date Time Calendar](https://colab.research.google.com/drive/19ntCCcj3Dwy_nPmkHgJ4XVmsH3HmNJ-R?usp=sharing)
+
+## [Lesson 10: OOP - Objects & Classes](https://colab.research.google.com/drive/10kCAqWJarynBmsvZwD9OAo9SYDq6Bwvr?usp=sharing)
