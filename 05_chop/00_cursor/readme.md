@@ -1,6 +1,6 @@
 # Learning Cursor AI 
 
-[Cursor AI Tutorial For Beginners](https://www.thepromptwarrior.com/p/cursor-ai-tutorial-for-beginners)
+[Cursor AI Makes Coding EASY Even for Beginners!](https://www.youtube.com/watch?v=AmqdgFuqhv8)
 
 [Introduction to coding with Cursor](https://practicalprogrammatic.com/course/introduction-to-cursor/)
 
