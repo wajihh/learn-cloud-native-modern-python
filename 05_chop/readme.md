@@ -91,6 +91,31 @@ Conclusion:
 
 If you prioritize seamless integration within your existing IDE and require quick, in-line code suggestions, GitHub Copilot may be the preferable choice. Conversely, if you seek a tool with a deep understanding of your entire codebase, extensive customization options, and robust project-wide capabilities, Cursor could be more suitable.
 
+## Agent Mode in GitHub Copilot
+
+The recent introduction of Agent Mode in GitHub Copilot has significantly enhanced its capabilities, bringing it closer to tools like Cursor. However, the choice between GitHub Copilot and Cursor depends on your specific development needs and preferences.
+
+GitHub Copilot with Agent Mode:
+	•	Autonomous Code Generation: Agent Mode enables Copilot to iterate on its own code, recognize errors, and fix them automatically. It suggests terminal commands and analyzes runtime errors with self-healing capabilities.  ￼
+	•	Task Inference: Beyond executing specified tasks, Copilot infers additional necessary subtasks to complete a user’s request, enhancing its ability to handle complex coding scenarios.  ￼
+
+Cursor:
+	•	Project-Wide Understanding: Cursor comprehends the entire codebase, enabling modifications across multiple files and understanding complex project structures.  ￼
+	•	AI Agent (Cursor Agent): Acts as an AI assistant capable of running commands, managing files, and handling project-wide tasks.  ￼
+	•	Customization: Offers extensive customization through settings and .cursorrules files, allowing developers to tailor the tool to specific project needs.  ￼
+
+User Feedback:
+	•	GitHub Copilot: Users appreciate its seamless integration and real-time suggestions but have noted limitations in handling large-scale project modifications.  ￼
+	•	Cursor: Users value its comprehensive project understanding and customization options. Some have highlighted its superior performance in managing extensive codebase operations.  ￼
+
+Conclusion:
+
+The introduction of Agent Mode enhances GitHub Copilot’s autonomy and error-handling capabilities, making it a more formidable tool for developers. However, Cursor continues to excel in project-wide comprehension and customization. The choice between the two depends on your specific development needs:
+	•	Choose GitHub Copilot if you prefer seamless integration within your existing IDE and value autonomous code iteration and error correction.
+	•	Choose Cursor if you require deep project-wide understanding, extensive customization options, and robust project-wide capabilities.
+
+For a visual comparison and further insights, you might find this video helpful:
+
 
 ￼
 
