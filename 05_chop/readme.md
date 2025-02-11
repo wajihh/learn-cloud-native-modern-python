@@ -46,6 +46,8 @@ This two-step transformation—from boosting individual efficiency to multiplyin
 
 ## GitHub Copilot vs Cursor
 
+**We will be using Cursor, Github Copilot (long run), and V0 Dev**
+
 ![List of Code Generators](list.jpeg)
 
 

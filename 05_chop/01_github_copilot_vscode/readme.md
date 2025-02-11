@@ -2,6 +2,8 @@
 
 [WATCH Live demo: GitHub Copilot in Visual Studio Code](https://www.youtube.com/watch?v=dSbv-1KGu2U)
 
+[Agent Mode in GitHub Copilot](https://www.youtube.com/watch?v=zIejF3IGtWk)
+
 [WATCH How to get started with GitHub Copilot Free in Visual Studio Code - FREE AI Code Editor](https://www.youtube.com/watch?v=4vCdoj4ou7I)
 
 [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
