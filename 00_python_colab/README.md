@@ -8,6 +8,8 @@ Master Python effortlessly with our interactive **Google Colab-based course** de
 
 **[Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)**
 
+**[Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)**
+
 **[Python CheatSheet (2025)](https://www.geeksforgeeks.org/python-cheat-sheet/)**
 
 **[W3 Schools Python Tutorial](https://www.w3schools.com/python/)**
