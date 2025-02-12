@@ -50,8 +50,6 @@ https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homewor
 
 Read this article to understand [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
 
-## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
-
 ## We will be using Google Colab for development:
 
 Google Colab is a free, cloud-based Jupyter Notebook service developed by Google. It enables users to write and execute Python code through a web browser, offering seamless integration with Google Drive for easy storage and sharing of notebooks. Colab is particularly beneficial for tasks in machine learning, data analysis, and education, as it provides access to powerful computing resources, including GPUs and TPUs, without requiring any local setup. 
