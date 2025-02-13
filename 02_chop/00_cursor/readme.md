@@ -1,5 +1,7 @@
 # Learning Cursor AI 
 
+[Cursor Features](https://www.cursor.com/features)
+
 [Cursor AI Makes Coding EASY Even for Beginners!](https://www.youtube.com/watch?v=AmqdgFuqhv8)
 
 [Introduction to coding with Cursor](https://practicalprogrammatic.com/course/introduction-to-cursor/)

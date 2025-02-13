@@ -1,4 +1,10 @@
-# Github Copilot
+# VS Code with Github Copilot
+
+To get started, you’ll need to [download VS Code Insiders](https://code.visualstudio.com/insiders/) and then enable the agent mode setting for GitHub Copilot Chat:
+
+[Install VS Code Insiders](https://code.visualstudio.com/insiders/)
+
+[https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 
 [WATCH Live demo: GitHub Copilot in Visual Studio Code](https://www.youtube.com/watch?v=dSbv-1KGu2U)
 
